@@ -1,0 +1,23 @@
+path: /Users/admin/Downloads/image
+train: images/train
+val: images/validation
+test: images/test
+labels:
+  train: labels/train
+  val: labels/validation
+  test: labels/test
+nc: 13
+names:
+  - rust
+  - spalling
+  - weathering
+  - crack
+  - efflorescence
+  - protective equipment
+  - cavity
+  - hollowareas
+  - drainage
+  - wetspot
+  - graffiti
+  - joint tape
+  - exposed rebars
