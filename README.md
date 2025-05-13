@@ -6,7 +6,11 @@
 <img src="https://github.com/user-attachments/assets/556de403-a6bc-4c35-9d27-46333b64bca1" width="500"/>
 )
 
+<img src="https://github.com/user-attachments/assets/7e7e5db5-5812-428a-b23f-20e7df10e35b" width="750"/>
+
 ### the diffrent beetween the YOLOs 
+
+
 
 <img src="https://github.com/user-attachments/assets/fa1c9ffe-f43d-4b43-9ba1-b71e77ac8ed7" width="750"/>
 
