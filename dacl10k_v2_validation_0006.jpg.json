@@ -1,0 +1,249 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 640,
+        "width": 480
+    },
+    "objects": [
+        {
+            "id": 122607592,
+            "classId": 6510461,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-01-06T16:17:50.677Z",
+            "updatedAt": "2024-01-06T16:17:50.677Z",
+            "tags": [
+                {
+                    "id": 89774937,
+                    "tagId": 28881,
+                    "name": "object part",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-01-06T16:17:50.677Z",
+                    "updatedAt": "2024-01-06T16:17:50.677Z"
+                }
+            ],
+            "classTitle": "drainage",
+            "points": {
+                "exterior": [
+                    [
+                        142,
+                        161
+                    ],
+                    [
+                        146,
+                        172
+                    ],
+                    [
+                        158,
+                        168
+                    ],
+                    [
+                        154,
+                        156
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 122607591,
+            "classId": 6510461,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-01-06T16:17:50.676Z",
+            "updatedAt": "2024-01-06T16:17:50.676Z",
+            "tags": [
+                {
+                    "id": 89774936,
+                    "tagId": 28881,
+                    "name": "object part",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-01-06T16:17:50.676Z",
+                    "updatedAt": "2024-01-06T16:17:50.676Z"
+                }
+            ],
+            "classTitle": "drainage",
+            "points": {
+                "exterior": [
+                    [
+                        198,
+                        259
+                    ],
+                    [
+                        202,
+                        267
+                    ],
+                    [
+                        210,
+                        263
+                    ],
+                    [
+                        205,
+                        255
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 122607590,
+            "classId": 6510461,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-01-06T16:17:50.675Z",
+            "updatedAt": "2024-01-06T16:17:50.675Z",
+            "tags": [
+                {
+                    "id": 89774935,
+                    "tagId": 28881,
+                    "name": "object part",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-01-06T16:17:50.675Z",
+                    "updatedAt": "2024-01-06T16:17:50.675Z"
+                }
+            ],
+            "classTitle": "drainage",
+            "points": {
+                "exterior": [
+                    [
+                        41,
+                        339
+                    ],
+                    [
+                        45,
+                        353
+                    ],
+                    [
+                        50,
+                        351
+                    ],
+                    [
+                        46,
+                        337
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 122607589,
+            "classId": 6510457,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-01-06T16:17:50.674Z",
+            "updatedAt": "2024-01-06T16:17:50.674Z",
+            "tags": [
+                {
+                    "id": 89774934,
+                    "tagId": 28879,
+                    "name": "general defect",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-01-06T16:17:50.674Z",
+                    "updatedAt": "2024-01-06T16:17:50.674Z"
+                }
+            ],
+            "classTitle": "weathering",
+            "points": {
+                "exterior": [
+                    [
+                        14,
+                        391
+                    ],
+                    [
+                        11,
+                        441
+                    ],
+                    [
+                        0,
+                        444
+                    ],
+                    [
+                        0,
+                        422
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 122607588,
+            "classId": 6510465,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-01-06T16:17:50.674Z",
+            "updatedAt": "2024-01-06T16:17:50.674Z",
+            "tags": [
+                {
+                    "id": 89774933,
+                    "tagId": 28880,
+                    "name": "concrete defect",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-01-06T16:17:50.673Z",
+                    "updatedAt": "2024-01-06T16:17:50.673Z"
+                }
+            ],
+            "classTitle": "spalling",
+            "points": {
+                "exterior": [
+                    [
+                        195,
+                        132
+                    ],
+                    [
+                        199,
+                        137
+                    ],
+                    [
+                        222,
+                        137
+                    ],
+                    [
+                        258,
+                        127
+                    ],
+                    [
+                        286,
+                        109
+                    ],
+                    [
+                        287,
+                        102
+                    ],
+                    [
+                        272,
+                        99
+                    ],
+                    [
+                        247,
+                        105
+                    ],
+                    [
+                        213,
+                        118
+                    ],
+                    [
+                        199,
+                        127
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
